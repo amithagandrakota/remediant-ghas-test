@@ -8,3 +8,5 @@ Test areas:
 - Code scanning / CodeQL
 - Dependency scanning / Dependabot
 - Secret scanning
+
+this is a test
